@@ -1,0 +1,32 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=AttestatExpress.chm
+Contents file=Untitled.hhc
+Default topic=addrec.htm
+Display compile progress=No
+Language=0x419 Русский (Россия)
+
+
+[FILES]
+addrec.htm
+cngrec.htm
+exp.htm
+general.htm
+impdoc.htm
+impexp.htm
+impxls.htm
+instnreg.htm
+jrn.htm
+print.htm
+prnangle.htm
+prnmoveall.htm
+prnmovesngl.htm
+tmpl.htm
+dopsved.htm
+templset.htm
+disc.htm
+mainform.htm
+korrector.htm
+
+[INFOTYPES]
+

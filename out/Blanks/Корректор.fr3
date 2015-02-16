@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TfrxReport Version="4.7.109" DotMatrixReport="False" IniFile="\Software\Fast Reports" PreviewOptions.AllowEdit="False" PreviewOptions.Buttons="4095" PreviewOptions.Zoom="1" PrintOptions.Printer="По умолчанию" PrintOptions.PrintOnSheet="0" ReportOptions.CreateDate="40119,8109575579" ReportOptions.Description.Text="" ReportOptions.LastChange="40451,9199779514" ScriptLanguage="PascalScript" ScriptText.Text="&#13;&#10;begin&#13;&#10;&#13;&#10;end." PropData="044C65667403180103546F70020808446174617365747301010C3100000020446174615365743D224D61696E466F726D2E53747564656E742220446174615365744E616D653D2253747564656E74220000095661726961626C65730100055374796C650100">
+  <TfrxDataPage Name="Data" Height="1000" Left="0" Top="0" Width="1000"/>
+  <TfrxReportPage Name="Page1" PaperWidth="210" PaperHeight="297" PaperSize="9" LeftMargin="0" RightMargin="0" TopMargin="0" BottomMargin="0" ColumnWidth="0" ColumnPositions.Text="" HGuides.Text="" VGuides.Text="">
+    <TfrxMemoView Name="MainMemo" Left="147,4005" Top="154,9595" Width="196,534" Height="377,95" ShowHint="False" AutoWidth="True" Text="РџСЂРёРІРµС‚"/>
+  </TfrxReportPage>
+</TfrxReport>
